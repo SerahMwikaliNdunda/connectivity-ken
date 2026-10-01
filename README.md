@@ -8,7 +8,7 @@
 ![Languages](https://img.shields.io/badge/langues-EN%20%7C%20FR-00704A)
 
 African Development Bank · AU STATAFRIC — STG17.
-Generated on 2026-09-30 for **Republic of Kenya (KEN)**,
+Generated on 2026-10-01 for **Republic of Kenya (KEN)**,
 reference period **2026 Q2**. The dashboard is bilingual: use the EN / FR switch in
 the top-right corner. *Le tableau de bord est bilingue : utilisez le sélecteur EN / FR en haut à droite.*
 
